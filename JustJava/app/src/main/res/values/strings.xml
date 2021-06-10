@@ -1,0 +1,16 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="toppings">TOPPINGS</string>
+    <string name="enter_your_name">Enter your name.</string>
+    <string name="thank_you">Thank You</string>
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="decrement_symbol">-</string>
+    <string name="_2">2</string>
+    <string name="increment_symbol">+</string>
+    <string name="order_summary">ORDER SUMMARY</string>
+    <string name="_0">0</string>
+    <string name="order">ORDER</string>
+</resources>
